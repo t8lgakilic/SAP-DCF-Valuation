@@ -6,40 +6,42 @@ This project presents a complete Discounted Cash Flow (DCF) valuation model for 
 
 The model forecasts future financial performance, estimates Free Cash Flow to Firm (FCFF), calculates the Weighted Average Cost of Capital (WACC), and derives the intrinsic value of the company.
 
----
-
 ## Key Features
 
 - Historical financial analysis
 - Revenue forecasting
 - FCFF calculation
-- WACC estimation
-- Terminal Value (Gordon Growth)
+- WACC estimation (CAPM)
+- Terminal Value (Gordon Growth Method)
 - Enterprise Value
 - Equity Value
-- Intrinsic Share Price
+- Intrinsic Value per Share
 - Sensitivity Analysis
-
----
+- Executive Dashboard
 
 ## Files
 
-- 📊 SAP_DCF_Model.xlsx
-- 📄 SAP_Equity_Research_Report.pdf
-
----
+- 📊 **SAP_DCF.ods** – Complete financial model
+- 📄 **SAP_Equity_Research_Report.pdf** – Investment report
 
 ## Skills Demonstrated
 
 - Financial Modeling
-- Corporate Valuation
-- DCF Analysis
+- Discounted Cash Flow (DCF) Valuation
+- Corporate Finance
 - Equity Research
-- Microsoft Excel
 - Financial Forecasting
+- Microsoft Excel
+- Valuation & Sensitivity Analysis
 
----
+## Data Sources
+
+- SAP Annual Reports
+- SAP Investor Relations
+- Yahoo Finance
+- Damodaran Online
+- Germany 10Y Government Bond
 
 ## Author
 
-Tolga Kilic
+**Tolga Kilic**
