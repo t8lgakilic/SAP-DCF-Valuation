@@ -22,6 +22,7 @@ The model forecasts future financial performance, estimates Free Cash Flow to Fi
 ## Files
 
 - 📊 **SAP_DCF.ods** – Complete financial model
+<img width="1699" height="794" alt="Ekran görüntüsü 2026-08-04 161739" src="https://github.com/user-attachments/assets/74e439e2-1cb8-4e7f-8217-a6a91d31b99a" />
 
 ## Skills Demonstrated
 
