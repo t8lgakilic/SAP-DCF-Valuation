@@ -22,14 +22,12 @@ The model forecasts future financial performance, estimates Free Cash Flow to Fi
 ## Files
 
 - 📊 **SAP_DCF.ods** – Complete financial model
-- 📄 **SAP_Equity_Research_Report.pdf** – Investment report
 
 ## Skills Demonstrated
 
 - Financial Modeling
 - Discounted Cash Flow (DCF) Valuation
 - Corporate Finance
-- Equity Research
 - Financial Forecasting
 - Microsoft Excel
 - Valuation & Sensitivity Analysis
