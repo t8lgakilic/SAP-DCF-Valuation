@@ -23,7 +23,7 @@ The model forecasts future financial performance, estimates Free Cash Flow to Fi
 
 - 📊 **SAP_DCF.xlsx** – Complete financial model
 - [SAP DCF Valuation Model (Excel)](./SAP-DCF.xlsx)
-- [SAP Equity Research Report (PDF)](./SAP_Equity_Research_Report.pdf)
+- [SAP Equity Research Report (PDF)](./SAP-Equity-Research_Report.pdf)
 
 ## Skills Demonstrated
 
